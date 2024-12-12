@@ -31,7 +31,7 @@
 
 <br>
 
-## 🗄️ Databases:
+## <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="45px"> Databases:
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -44,7 +44,7 @@
 
 <br>
 
-## 🎨 Design Tools:
+## <img src="https://media.giphy.com/media/3QGo7M7PLsLQRBfYt2/giphy.gif" width="45px"> Design Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
@@ -53,7 +53,7 @@
 
 <br>
 
-## 📊 Machine Learning & Data Science:
+## <img src="https://media.giphy.com/media/j31mEHOnY3uLhfB3OS/giphy.gif" width="45px"> Machine Learning & Data Science:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -63,7 +63,7 @@
 
 <br>
 
-## 🔧 Other Tools:
+## <img src="https://media.giphy.com/media/QHxDCZD6YnCpwdlY3g/giphy.gif" width="45px"> Other Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
