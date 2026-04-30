@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mreslamgeek">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Senior+Software+Engineer+🧠;Flutter+Architect+📱;Backend+Engineer+⚙️;AI+Integrator+🤖;Building+Scalable+Systems+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Senior+Software+Engineer+🧠;Flutter+Architect+📱;Backend+Engineer+⚙️;AI+Integrator+🤖;Building+Scalable+Systems+🚀;Crafting+Digital+Experiences+✨" />
   </a>
 
   <p align="center">
@@ -18,95 +18,84 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hey there! I'm Esoo.
 
-Hi, I'm **Esoo** — a software engineer focused on building **scalable, high-performance systems** across mobile and backend.
+I'm a software engineer who finds joy in the architecture of complex systems. I don't just "write code"—I'm passionate about **crafting scalable, high-performance solutions** that solve real problems. Whether it's the smooth animations in a mobile app or the silent efficiency of a backend API, I care about the details that make software feel *premium*.
 
-I work at the intersection of:
-- 📱 **Mobile Architecture (Flutter)**
-- ⚙️ **Backend Systems & APIs**
-- 🤖 **AI Integration & Automation**
+### 🚀 What I'm focused on:
+- 📱 **Architecting Fluid Experiences**: Building mobile apps with Flutter that feel native, responsive, and robust.
+- ⚙️ **The Invisible Engine**: Designing backend systems that handle the heavy lifting without breaking a sweat.
+- 🤖 **Intelligence & Automation**: Integrating AI to make workflows smarter and products more intuitive.
 
-I care deeply about performance, clean architecture, and creating systems that are **easy to scale and hard to break**.
-
----
-
-## 🏗️ System Design Stack
-
-- **Client Layer** → Flutter (Cross-platform apps)
-- **API Layer** → Node.js · Laravel · FastAPI · GraphQL
-- **Data Layer** → PostgreSQL · MongoDB · Redis
-- **Infrastructure** → Docker · Kubernetes · GCP
-- **Intelligence Layer** → TensorFlow · PyTorch
+I'm a big believer in **Clean Architecture**, **S.O.L.I.D principles**, and building systems that are as easy to maintain as they are to use.
 
 ---
 
-## 🧠 Core Languages
+## 🛠️ My Digital Toolkit
+
+### 🔹 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,ts,go,py,php,kotlin,swift,java,js,bash,c" />
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=dart,ts,go,py,php,kotlin,swift,java,js,bash,c" />
+  </a>
+</p>
+
+### 📱 Building for the User (Mobile)
+<p>
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+</p>
+
+### 🌐 Powering the Core (API & Backend)
+<p>
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,graphql" />
+  </a>
+</p>
+
+### 🧠 Teaching Machines (AI / ML)
+<p>
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  </a>
+</p>
+
+### 💾 Data & Memory
+<p>
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase" />
+  </a>
+</p>
+
+### ☁️ The Engine Room (Infrastructure)
+<p>
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,nginx,linux,githubactions,gitlab,github,git" />
+  </a>
+</p>
+
+### 🔌 Hardware & Tinkering
+<p>
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+  </a>
 </p>
 
 ---
 
-## 📱 Client Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
+## 🌟 What I Love to Build
+
+- **High-Performance Apps**: Mobile experiences that users actually enjoy using.
+- **Resilient APIs**: Scalable backends that stay up when the traffic hits.
+- **Smart Tools**: AI integrations that automate the boring stuff and highlight the important.
+- **Elegant Architecture**: Codebases that are a pleasure for other developers to read.
 
 ---
 
-## 🌐 API & Application Layer
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,graphql" />
-</p>
+## 🤝 Let's Chat!
 
----
-
-## 🧠 AI / ML Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-</p>
-
----
-
-## 💾 Data Layer
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase" />
-</p>
-
----
-
-## ☁️ Infrastructure & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,nginx,linux,githubactions,gitlab,git" />
-</p>
-
----
-
-## 🛠️ Tooling & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,npm,gradle,figma" />
-</p>
-
----
-
-## 🔌 Embedded & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-</p>
-
----
-
-## 🚀 What I Build
-
-- 📱 **High-performance mobile apps** with clean architecture  
-- ⚙️ **Scalable backend systems & APIs**  
-- 🤖 **AI-powered developer tools & automation**  
-- 🧱 **Robust system architectures designed to scale**
-
----
-
-## 🤝 Connect With Me
+I’m always open to discussing system design, Flutter architecture, or the latest in AI. If you have a project in mind or just want to talk tech, feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mreslamgeek/" target="_blank">
@@ -126,5 +115,7 @@ I care deeply about performance, clean architecture, and creating systems that a
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Designing+Systems,+Not+Just+Apps+🚀;Always+Optimizing,+Always+Building." />
+  <a href="https://github.com/mreslamgeek">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Building+Systems+with+Heart+❤️;Designing+Solutions+for+People+👤" />
+  </a>
 </div>
