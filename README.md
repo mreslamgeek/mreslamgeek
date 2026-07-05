@@ -119,3 +119,10 @@ I’m always open to discussing system design, Flutter architecture, or the late
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Building+Systems+with+Heart+❤️;Designing+Solutions+for+People+👤" />
   </a>
 </div>
+
+
+### 🛠️ Open Source Contributions
+
+- **[custom-dropdown](https://github.com/AbdullahChauhan/custom-dropdown)** (Flutter Package)
+  - Identified and investigated a regression bug introduced in Flutter 3.35+ regarding ambient `inputDecorationTheme` inheritance on error states.
+  - Contributed the core logic and proposed the architectural fix that shaped the official **[v4.0.0 Release](https://github.com/AbdullahChauhan/custom-dropdown/releases/tag/4.0.0)**, with official author credit acknowledged in the changelog.
